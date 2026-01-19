@@ -1,0 +1,24 @@
+{
+  "executive_summary": "",
+  "themes": [],
+  "notable_files": [
+    {
+      "filepath": "sample_folder\\config.json",
+      "note": "Summary based on hash 413264cede"
+    },
+    {
+      "filepath": "sample_folder\\data.csv",
+      "note": "Summary based on hash 3b1515ce6f"
+    },
+    {
+      "filepath": "sample_folder\\notes.md",
+      "note": "Summary based on hash a226d99be1"
+    },
+    {
+      "filepath": "sample_folder\\sample1.txt",
+      "note": "Summary based on hash 1cd3d20d40"
+    }
+  ],
+  "suggested_next_actions": [],
+  "limitations": "Limitations: previews used, LLM summaries may be imperfect."
+}

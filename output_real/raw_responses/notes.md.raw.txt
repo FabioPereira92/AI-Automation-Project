@@ -1,0 +1,5 @@
+```json
+{
+  "summary": "The document contains ideas for a project, including building an automation toolkit and emphasizing the careful use of large language models (LLMs)."
+}
+```

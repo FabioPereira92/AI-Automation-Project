@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-01-19T10:47:04.002123Z",
+    "command": "classify",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 0,
+    "failures": 4,
+    "estimated_tokens": 187,
+    "estimated_cost": 0.00561
+  },
+  {
+    "timestamp": "2026-01-19T10:48:23.222027Z",
+    "command": "classify",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 1,
+    "failures": 3,
+    "estimated_tokens": 187,
+    "estimated_cost": 0.00561
+  },
+  {
+    "timestamp": "2026-01-19T10:49:25.313577Z",
+    "command": "classify",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 4,
+    "failures": 0,
+    "estimated_tokens": 187,
+    "estimated_cost": 0.00561
+  },
+  {
+    "timestamp": "2026-01-19T10:49:44.610439Z",
+    "command": "summarize",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 2,
+    "failures": 2,
+    "estimated_tokens": 169,
+    "estimated_cost": 0.00507
+  },
+  {
+    "timestamp": "2026-01-19T10:51:10.752364Z",
+    "command": "summarize",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 2,
+    "failures": 2,
+    "estimated_tokens": 169,
+    "estimated_cost": 0.00507
+  }
+]

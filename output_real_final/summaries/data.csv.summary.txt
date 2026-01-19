@@ -1,0 +1,1 @@
+CSV file contains data with three columns: id, name, and value, featuring entries for two individuals, Alice with a value of 10 and Bob with a value of 12.

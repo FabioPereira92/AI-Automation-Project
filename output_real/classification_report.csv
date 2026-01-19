@@ -1,0 +1,5 @@
+filepath,category,confidence,reason,suggested_tags_json,error
+sample_folder\config.json,Configuration,0.95,"The file contains key-value pairs typical of configuration settings, such as project name and owner information.","[""config"", ""JSON"", ""settings"", ""project""]",
+sample_folder\data.csv,Data File,0.95,"The file contains a tabular format with identifiable columns and entries, typical of a CSV file used for data representation.","[""CSV"", ""data"", ""table"", ""comma-separated values""]",
+sample_folder\notes.md,Technology,0.85,"The content contains references to building tools and using language models, which are technology-related topics.","[""automation"", ""LLMs"", ""technology"", ""ideas""]",
+sample_folder\sample1.txt,Meeting Notes,0.95,"The content includes notes from a meeting discussing project-related topics, which is characteristic of meeting notes.","[""project management"", ""meeting"", ""Acme Corp"", ""task assignment""]",

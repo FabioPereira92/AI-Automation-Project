@@ -1,0 +1,5 @@
+file,summary_path,short_summary,error
+sample_folder\config.json,output\summaries\config.json.summary.txt,Summary based on hash 413264cede,
+sample_folder\data.csv,output\summaries\data.csv.summary.txt,Summary based on hash 3b1515ce6f,
+sample_folder\notes.md,output\summaries\notes.md.summary.txt,Summary based on hash a226d99be1,
+sample_folder\sample1.txt,output\summaries\sample1.txt.summary.txt,Summary based on hash 1cd3d20d40,

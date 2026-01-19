@@ -1,0 +1,5 @@
+filepath,category,confidence,reason,suggested_tags_json,error
+sample_folder\config.json,configuration,0.9,File type and content suggest it contains configuration settings for a project,"[""configuration"", ""json"", ""project"", ""settings""]",
+sample_folder\data.csv,data,0.95,"File is a CSV containing structured data with fields 'id', 'name', and 'value'","[""data"", ""CSV"", ""structured""]",
+sample_folder\notes.md,notes,0.9,File extension and content indicate brainstorming or notes.,"[""ideas"", ""brainstorming"", ""notes""]",
+sample_folder\sample1.txt,notes,0.9,Content indicates meeting notes discussing project timeline and task assignment.,"[""meeting"", ""notes"", ""project"", ""tasks""]",

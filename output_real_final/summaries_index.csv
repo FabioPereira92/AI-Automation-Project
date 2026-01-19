@@ -1,0 +1,5 @@
+file,summary_path,short_summary,error
+sample_folder\config.json,output_real_final\summaries\config.json.summary.txt,"Configuration file for the demo project, owned by alice@example.com.",
+sample_folder\data.csv,output_real_final\summaries\data.csv.summary.txt,"CSV file contains data with three columns: id, name, and value, featuring entries for two individuals, Alice with a value of 10 and Bob with a value of 12.",
+sample_folder\notes.md,output_real_final\summaries\notes.md.summary.txt,Notes outline ideas for developing an automation toolkit and highlight the importance of using LLMs with caution.,
+sample_folder\sample1.txt,output_real_final\summaries\sample1.txt.summary.txt,Meeting notes for Acme Corp: discussed project timeline and assigned tasks.,

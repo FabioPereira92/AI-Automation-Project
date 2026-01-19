@@ -1,0 +1,19 @@
+```json
+{
+  "summary": {
+    "total_entries": 2,
+    "entries": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "value": 10
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "value": 12
+      }
+    ]
+  }
+}
+```

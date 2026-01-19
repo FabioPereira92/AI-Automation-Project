@@ -1,0 +1,5 @@
+filepath,category,confidence,reason,suggested_tags_json,error
+sample_folder\config.json,configuration,0.95,File type and content indicate project configuration settings,"[""config"", ""json"", ""settings""]",
+sample_folder\data.csv,data,0.95,File extension indicates a CSV data file,"[""data"", ""csv"", ""dataset""]",
+sample_folder\notes.md,notes,0.9,Filename and content suggest brainstorming or planning notes,"[""ideas"", ""brainstorming"", ""notes""]",
+sample_folder\sample1.txt,notes,0.9,Content outlines meeting notes for discussing project timeline and task assignments.,"[""meeting"", ""notes"", ""project"", ""tasks""]",

@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2026-01-19T11:08:07.819587Z",
+    "command": "classify",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 4,
+    "failures": 0,
+    "estimated_tokens": 554,
+    "estimated_cost": 0.01662
+  }
+]

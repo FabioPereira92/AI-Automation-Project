@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2026-01-19T11:09:47.153848Z",
+    "command": "classify",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 4,
+    "failures": 0,
+    "estimated_tokens": 554,
+    "estimated_cost": 0.01662
+  },
+  {
+    "timestamp": "2026-01-19T11:10:58.196005Z",
+    "command": "summarize",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 4,
+    "failures": 0,
+    "estimated_tokens": 497,
+    "estimated_cost": 0.01491
+  },
+  {
+    "timestamp": "2026-01-19T11:11:13.538403Z",
+    "command": "rename",
+    "model": "gpt-4o-mini",
+    "files_scanned": 4,
+    "files_processed": 4,
+    "failures": 0,
+    "applied": false,
+    "estimated_tokens": 743,
+    "estimated_cost": 0.02229
+  }
+]

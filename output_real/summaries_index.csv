@@ -1,0 +1,5 @@
+file,summary_path,short_summary,error
+sample_folder\config.json,,,"write() argument must be str, not dict"
+sample_folder\data.csv,,,"write() argument must be str, not dict"
+sample_folder\notes.md,output_real\summaries\notes.md.summary.txt,"The document contains ideas for a project, including building an automation toolkit and using large language models (LLMs) with caution.",
+sample_folder\sample1.txt,output_real\summaries\sample1.txt.summary.txt,Meeting notes include discussion on the project timeline and task assignments for Acme Corp.,

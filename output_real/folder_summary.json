@@ -1,0 +1,16 @@
+{
+  "executive_summary": "",
+  "themes": [],
+  "notable_files": [
+    {
+      "filepath": "sample_folder\\notes.md",
+      "note": "The document contains ideas for a project, including building an automation toolkit and using large language models (LLMs) with caution."
+    },
+    {
+      "filepath": "sample_folder\\sample1.txt",
+      "note": "Meeting notes include discussion on the project timeline and task assignments for Acme Corp."
+    }
+  ],
+  "suggested_next_actions": [],
+  "limitations": "Limitations: previews used, LLM summaries may be imperfect."
+}

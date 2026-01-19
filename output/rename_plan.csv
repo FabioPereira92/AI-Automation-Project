@@ -1,0 +1,5 @@
+filepath,proposed_name,proposed_path,reason,safe,collision,error
+sample_folder\config.json,file-ad605341.json,sample_folder\file-ad605341.json,Generated deterministically from preview and filepath,True,False,
+sample_folder\data.csv,file-363acb2c.csv,sample_folder\file-363acb2c.csv,Generated deterministically from preview and filepath,True,False,
+sample_folder\notes.md,file-094c3128.md,sample_folder\file-094c3128.md,Generated deterministically from preview and filepath,True,False,
+sample_folder\sample1.txt,file-4fd1c323.txt,sample_folder\file-4fd1c323.txt,Generated deterministically from preview and filepath,True,False,

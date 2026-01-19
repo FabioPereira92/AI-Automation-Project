@@ -1,0 +1,5 @@
+filepath,category,confidence,reason,suggested_tags_json,error
+sample_folder\config.json,notes,0.85,Filename and content look like meeting notes,"[""meeting"", ""notes""]",
+sample_folder\data.csv,notes,0.85,Filename and content look like meeting notes,"[""meeting"", ""notes""]",
+sample_folder\notes.md,notes,0.85,Filename and content look like meeting notes,"[""meeting"", ""notes""]",
+sample_folder\sample1.txt,notes,0.85,Filename and content look like meeting notes,"[""meeting"", ""notes""]",

@@ -1,0 +1,5 @@
+filepath,category,confidence,reason,suggested_tags_json,error
+sample_folder\config.json,configuration,0.9,File is named config.json and contains project configuration details.,"[""configuration"", ""json"", ""project"", ""settings""]",
+sample_folder\data.csv,data,0.9,File extension and preview indicate a data file with structured information,"[""csv"", ""data"", ""analysis""]",
+sample_folder\notes.md,notes,0.9,File name and content imply it contains ideas and notes.,"[""ideas"", ""notes"", ""brainstorming""]",
+sample_folder\sample1.txt,notes,0.9,Content indicates detailed meeting notes with a focus on project management.,"[""meeting"", ""notes"", ""project"", ""timeline""]",

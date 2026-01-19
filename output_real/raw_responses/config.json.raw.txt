@@ -1,0 +1,8 @@
+```json
+{
+  "summary": {
+    "project": "demo",
+    "owner": "alice@example.com"
+  }
+}
+```

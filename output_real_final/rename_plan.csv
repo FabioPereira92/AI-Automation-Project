@@ -1,0 +1,5 @@
+filepath,proposed_name,proposed_path,reason,safe,collision,error
+sample_folder\config.json,config-demo.json,sample_folder\config-demo.json,File contains project configuration details,True,False,
+sample_folder\data.csv,data-summary-2024-11-01.csv,sample_folder\data-summary-2024-11-01.csv,Content is a summary of data entries,True,False,
+sample_folder\notes.md,ideas-automation-toolkit-llms.md,sample_folder\ideas-automation-toolkit-llms.md,Notes on ideas for automation and LLM usage,True,False,
+sample_folder\sample1.txt,meeting-notes-acme-corp-2024-10-01.txt,sample_folder\meeting-notes-acme-corp-2024-10-01.txt,Content looks like meeting notes,True,False,

@@ -1,0 +1,3 @@
+```json
+{"proposed_filename":"data-sample-2024-10-01","reason":"Data file containing sample records","safe":true}
+```

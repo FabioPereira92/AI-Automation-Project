@@ -1,0 +1,7 @@
+pydantic>=1.10
+chardet>=5.0
+python-magic; platform_system!='Windows'
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+requests>=2.28
+

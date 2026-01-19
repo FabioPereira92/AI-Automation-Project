@@ -1,0 +1,24 @@
+{
+  "executive_summary": "",
+  "themes": [],
+  "notable_files": [
+    {
+      "filepath": "sample_folder\\config.json",
+      "note": "Configuration file for the demo project, owned by alice@example.com."
+    },
+    {
+      "filepath": "sample_folder\\data.csv",
+      "note": "CSV file contains data with three columns: id, name, and value, featuring entries for two individuals, Alice with a value of 10 and Bob with a value of 12."
+    },
+    {
+      "filepath": "sample_folder\\notes.md",
+      "note": "Notes outline ideas for developing an automation toolkit and highlight the importance of using LLMs with caution."
+    },
+    {
+      "filepath": "sample_folder\\sample1.txt",
+      "note": "Meeting notes for Acme Corp: discussed project timeline and assigned tasks."
+    }
+  ],
+  "suggested_next_actions": [],
+  "limitations": "Limitations: previews used, LLM summaries may be imperfect."
+}
