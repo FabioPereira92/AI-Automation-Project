@@ -47,8 +47,6 @@ Limits & notes ⚙️
 - Python 3.11 recommended.
 - The project includes `MockLLMClient` for deterministic testing and dry-run behaviour. 🧪
 
-Placeholders 📸
-- Add screenshot/GIF here
-
 Contributing 🤝
 - PRs welcome. Please run `pytest` and ensure linting.
+
